@@ -15,7 +15,7 @@ The sim directory includes the simulation files and test bench code.
 ## Usage
 1. Clone the repository: 
     ```bash
-      git clone https://github.com/SamarthWalse10/8bit-ALU-Verilog.git
+      git clone https://github.com/SHAIKTHANSEERA/8bit--ALU-_verilog
 2. Open the project in your preferred Verilog development environment.
 3. Compile and synthesize the Verilog source code.
 4. Simulate the design using the provided test bench.
