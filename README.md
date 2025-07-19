@@ -21,6 +21,7 @@ The sim directory includes the simulation files and test bench code.
 4. Simulate the design using the provided test bench.
 5. Analyze the simulation results and verify the functionality of the 8bit ALU.
 ## Screenshots
+<img width="1521" height="204" alt="image" src="https://github.com/user-attachments/assets/ff887bce-e631-4984-a0c6-701473fe02cb" />
 
 <img width="1090" height="693" alt="image" src="https://github.com/user-attachments/assets/e987c50f-48e1-437c-85b3-827911510cf6" />
 
